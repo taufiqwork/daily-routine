@@ -255,15 +255,18 @@
      "t": "Belajar bahasa Inggris",
      "n": "Satu fokus per hari. Versi singkat 15 menit untuk malam yang lelah.",
      "d": [
-      "Fokus hari ini: Ulas semua kosakata pekan ini, lalu tulis 5 kalimat tentang pekan Anda.",
-      "5 menit: ulas kartu kosakata kemarin (Anki, Quizlet, atau kartu kertas).",
-      "15–20 menit: satu materi utama sesuai fokus hari ini.",
-      "5 menit: tulis 5 kata atau ungkapan baru dalam kalimat buatan sendiri."
+      "Tema hari ini: Ukur kemajuan.",
+      "0–5 mnt: Frasa, ulas kartu jatuh tempo.",
+      "5–15 mnt: rekam ulang perkenalan diri 2 menit. Bandingkan dengan rekaman pekan lalu.",
+      "15–25 mnt: ceritakan perkenalan itu ke Claude, minta versi yang lebih natural. Simpan perbaikannya ke Frasa.",
+      "25–30 mnt: pilih video dan tema untuk pekan depan."
      ],
      "p": [
-      "Versi 15 menit untuk malam yang lelah: ulas 5 menit + materi 10 menit. Jangan dilewatkan sama sekali.",
-      "Taruh headset dan buku catatan di tempat yang sama setiap hari.",
-      "Pilih materi tentang desain, UX, dan dunia kerja supaya berguna untuk lamaran."
+      "Tonton: tidak ada: hari ini untuk bicara.",
+      "Frasa (aplikasi kartu): claude.ai/artifact/M6uajbTbTa4ddbKxEpDLtf.",
+      "Malam yang lelah: cukup 15 menit Frasa, ucapkan jawabannya keras-keras. Jangan dilewatkan.",
+      "Rekaman HP cukup untuk latihan bicara; simpan semuanya di satu album.",
+      "Duolingo boleh 5 menit sebagai pemanasan, bukan menu utama."
      ]
     },
     {
@@ -415,10 +418,12 @@
      "t": "Berangkat, jemput anak pertama",
      "n": "Paling lambat berangkat 10.30.",
      "d": [
-      "Berangkat paling lambat 10.30, jemput anak pertama jam 11.00."
+      "Berangkat paling lambat 10.30, jemput anak pertama jam 11.00.",
+      "Di jalan: dengarkan podcast Speak Confident English atau Business English Pod (cukup audionya)."
      ],
      "p": [
-      "Perjalanan sendirian ±30 menit cocok untuk audio: podcast Inggris atau kajian."
+      "Ulangi pelan frasa yang tertangkap telinga; nanti simpan ke Frasa saat menunggu.",
+      "Bergantian dengan kajian kalau sedang ingin."
      ]
     },
     {
@@ -429,6 +434,7 @@
      "n": "Jemput anak kedua 11.30. Isi waktu: sholat Zuhur, tilawah, balas pesan klien, admin, lamaran kerja.",
      "d": [
       "Sholat Zuhur di sini kalau waktunya sudah masuk.",
+      "10 menit: buka Frasa di HP, ulas kartu jatuh tempo.",
       "Tilawah pribadi 15–20 menit.",
       "Balas pesan klien dan kirim kabar progres pagi tadi.",
       "Lamaran kerja: cari lowongan, kirim 1 lamaran, perbarui profil LinkedIn.",
@@ -585,15 +591,18 @@
      "t": "Belajar bahasa Inggris",
      "n": "Satu fokus per hari. Versi singkat 15 menit untuk malam yang lelah.",
      "d": [
-      "Fokus hari ini: Listening: satu video pendek atau podcast ber-subtitle Inggris. Ulang bagian yang sulit.",
-      "5 menit: ulas kartu kosakata kemarin (Anki, Quizlet, atau kartu kertas).",
-      "15–20 menit: satu materi utama sesuai fokus hari ini.",
-      "5 menit: tulis 5 kata atau ungkapan baru dalam kalimat buatan sendiri."
+      "Tema hari ini: Wawancara.",
+      "0–5 mnt: buka Frasa, ulas kartu jatuh tempo (mode Indonesia → ucapkan Inggris).",
+      "5–15 mnt: shadowing 2–3 menit video wawancara kerja. Dengar sekali tanpa teks, sekali dengan subtitle, lalu tirukan per kalimat.",
+      "15–20 mnt: simpan 3–5 frasa dari video ke Frasa, tema Wawancara.",
+      "20–30 mnt: jawab \"Tell me about yourself\" dengan suara. Rekam 1 menit di HP, dengarkan, catat satu hal yang mau diperbaiki."
      ],
      "p": [
-      "Versi 15 menit untuk malam yang lelah: ulas 5 menit + materi 10 menit. Jangan dilewatkan sama sekali.",
-      "Taruh headset dan buku catatan di tempat yang sama setiap hari.",
-      "Pilih materi tentang desain, UX, dan dunia kerja supaya berguna untuk lamaran."
+      "Tonton: Speak Confident English: cari \"job interview\" di channel-nya.",
+      "Frasa (aplikasi kartu): claude.ai/artifact/M6uajbTbTa4ddbKxEpDLtf.",
+      "Malam yang lelah: cukup 15 menit Frasa, ucapkan jawabannya keras-keras. Jangan dilewatkan.",
+      "Rekaman HP cukup untuk latihan bicara; simpan semuanya di satu album.",
+      "Duolingo boleh 5 menit sebagai pemanasan, bukan menu utama."
      ]
     },
     {
@@ -745,10 +754,12 @@
      "t": "Berangkat, jemput anak pertama",
      "n": "Paling lambat berangkat 10.30.",
      "d": [
-      "Berangkat paling lambat 10.30, jemput anak pertama jam 11.00."
+      "Berangkat paling lambat 10.30, jemput anak pertama jam 11.00.",
+      "Di jalan: dengarkan podcast Speak Confident English atau Business English Pod (cukup audionya)."
      ],
      "p": [
-      "Perjalanan sendirian ±30 menit cocok untuk audio: podcast Inggris atau kajian."
+      "Ulangi pelan frasa yang tertangkap telinga; nanti simpan ke Frasa saat menunggu.",
+      "Bergantian dengan kajian kalau sedang ingin."
      ]
     },
     {
@@ -759,6 +770,7 @@
      "n": "Jemput anak kedua 11.30. Isi waktu: sholat Zuhur, tilawah, balas pesan klien, admin, lamaran kerja.",
      "d": [
       "Sholat Zuhur di sini kalau waktunya sudah masuk.",
+      "10 menit: buka Frasa di HP, ulas kartu jatuh tempo.",
       "Tilawah pribadi 15–20 menit.",
       "Balas pesan klien dan kirim kabar progres pagi tadi.",
       "Lamaran kerja: cari lowongan, kirim 1 lamaran, perbarui profil LinkedIn.",
@@ -915,15 +927,18 @@
      "t": "Belajar bahasa Inggris",
      "n": "Satu fokus per hari. Versi singkat 15 menit untuk malam yang lelah.",
      "d": [
-      "Fokus hari ini: Writing: tulis satu paragraf (3–5 kalimat) tentang pekerjaan Anda hari ini.",
-      "5 menit: ulas kartu kosakata kemarin (Anki, Quizlet, atau kartu kertas).",
-      "15–20 menit: satu materi utama sesuai fokus hari ini.",
-      "5 menit: tulis 5 kata atau ungkapan baru dalam kalimat buatan sendiri."
+      "Tema hari ini: Cerita proyek.",
+      "0–5 mnt: Frasa, filter tema Cerita proyek.",
+      "5–15 mnt: shadowing 2–3 menit cuplikan design leader yang bercerita tentang proyek.",
+      "15–20 mnt: simpan 3–5 frasa ke Frasa.",
+      "20–30 mnt: ceritakan satu proyek portofolio dengan pola tujuan → tantangan → yang saya lakukan → hasil. Rekam 90 detik."
      ],
      "p": [
-      "Versi 15 menit untuk malam yang lelah: ulas 5 menit + materi 10 menit. Jangan dilewatkan sama sekali.",
-      "Taruh headset dan buku catatan di tempat yang sama setiap hari.",
-      "Pilih materi tentang desain, UX, dan dunia kerja supaya berguna untuk lamaran."
+      "Tonton: Design MBA (wawancara design leader): ambil bagian saat tamu menceritakan proyeknya.",
+      "Frasa (aplikasi kartu): claude.ai/artifact/M6uajbTbTa4ddbKxEpDLtf.",
+      "Malam yang lelah: cukup 15 menit Frasa, ucapkan jawabannya keras-keras. Jangan dilewatkan.",
+      "Rekaman HP cukup untuk latihan bicara; simpan semuanya di satu album.",
+      "Duolingo boleh 5 menit sebagai pemanasan, bukan menu utama."
      ]
     },
     {
@@ -1075,10 +1090,12 @@
      "t": "Berangkat, jemput anak pertama",
      "n": "Paling lambat berangkat 10.30.",
      "d": [
-      "Berangkat paling lambat 10.30, jemput anak pertama jam 11.00."
+      "Berangkat paling lambat 10.30, jemput anak pertama jam 11.00.",
+      "Di jalan: dengarkan podcast Speak Confident English atau Business English Pod (cukup audionya)."
      ],
      "p": [
-      "Perjalanan sendirian ±30 menit cocok untuk audio: podcast Inggris atau kajian."
+      "Ulangi pelan frasa yang tertangkap telinga; nanti simpan ke Frasa saat menunggu.",
+      "Bergantian dengan kajian kalau sedang ingin."
      ]
     },
     {
@@ -1089,6 +1106,7 @@
      "n": "Jemput anak kedua 11.30. Isi waktu: sholat Zuhur, tilawah, balas pesan klien, admin, lamaran kerja.",
      "d": [
       "Sholat Zuhur di sini kalau waktunya sudah masuk.",
+      "10 menit: buka Frasa di HP, ulas kartu jatuh tempo.",
       "Tilawah pribadi 15–20 menit.",
       "Balas pesan klien dan kirim kabar progres pagi tadi.",
       "Lamaran kerja: cari lowongan, kirim 1 lamaran, perbarui profil LinkedIn.",
@@ -1284,15 +1302,18 @@
      "t": "Belajar bahasa Inggris",
      "n": "Satu fokus per hari. Versi singkat 15 menit untuk malam yang lelah.",
      "d": [
-      "Fokus hari ini: Speaking: shadowing 10 menit (ulangi kalimat pembicara pelan-pelan), lalu rekam suara Anda 1 menit.",
-      "5 menit: ulas kartu kosakata kemarin (Anki, Quizlet, atau kartu kertas).",
-      "15–20 menit: satu materi utama sesuai fokus hari ini.",
-      "5 menit: tulis 5 kata atau ungkapan baru dalam kalimat buatan sendiri."
+      "Tema hari ini: Rapat.",
+      "0–5 mnt: Frasa, filter tema Rapat.",
+      "5–15 mnt: shadowing satu potongan dialog rapat.",
+      "15–20 mnt: simpan 3–5 frasa ke Frasa.",
+      "20–30 mnt: latihan rapat lewat mode suara Claude: \"Kamu product manager, saya designer yang memberi update progres.\" Pakai 3 frasa baru."
      ],
      "p": [
-      "Versi 15 menit untuk malam yang lelah: ulas 5 menit + materi 10 menit. Jangan dilewatkan sama sekali.",
-      "Taruh headset dan buku catatan di tempat yang sama setiap hari.",
-      "Pilih materi tentang desain, UX, dan dunia kerja supaya berguna untuk lamaran."
+      "Tonton: Business English Pod (seri meetings) atau Speak Confident English: \"phrases for meetings\".",
+      "Frasa (aplikasi kartu): claude.ai/artifact/M6uajbTbTa4ddbKxEpDLtf.",
+      "Malam yang lelah: cukup 15 menit Frasa, ucapkan jawabannya keras-keras. Jangan dilewatkan.",
+      "Rekaman HP cukup untuk latihan bicara; simpan semuanya di satu album.",
+      "Duolingo boleh 5 menit sebagai pemanasan, bukan menu utama."
      ]
     },
     {
@@ -1444,10 +1465,12 @@
      "t": "Berangkat, jemput anak pertama",
      "n": "Paling lambat berangkat 10.30.",
      "d": [
-      "Berangkat paling lambat 10.30, jemput anak pertama jam 11.00."
+      "Berangkat paling lambat 10.30, jemput anak pertama jam 11.00.",
+      "Di jalan: dengarkan podcast Speak Confident English atau Business English Pod (cukup audionya)."
      ],
      "p": [
-      "Perjalanan sendirian ±30 menit cocok untuk audio: podcast Inggris atau kajian."
+      "Ulangi pelan frasa yang tertangkap telinga; nanti simpan ke Frasa saat menunggu.",
+      "Bergantian dengan kajian kalau sedang ingin."
      ]
     },
     {
@@ -1458,6 +1481,7 @@
      "n": "Jemput anak kedua 11.30. Isi waktu: sholat Zuhur, tilawah, balas pesan klien, admin, lamaran kerja.",
      "d": [
       "Sholat Zuhur di sini kalau waktunya sudah masuk.",
+      "10 menit: buka Frasa di HP, ulas kartu jatuh tempo.",
       "Tilawah pribadi 15–20 menit.",
       "Balas pesan klien dan kirim kabar progres pagi tadi.",
       "Lamaran kerja: cari lowongan, kirim 1 lamaran, perbarui profil LinkedIn.",
@@ -1614,15 +1638,18 @@
      "t": "Belajar bahasa Inggris",
      "n": "Satu fokus per hari. Versi singkat 15 menit untuk malam yang lelah.",
      "d": [
-      "Fokus hari ini: Reading: satu artikel pendek tentang desain atau UX. Tandai 5 kata baru.",
-      "5 menit: ulas kartu kosakata kemarin (Anki, Quizlet, atau kartu kertas).",
-      "15–20 menit: satu materi utama sesuai fokus hari ini.",
-      "5 menit: tulis 5 kata atau ungkapan baru dalam kalimat buatan sendiri."
+      "Tema hari ini: Obrolan rekan.",
+      "0–5 mnt: Frasa, filter tema Obrolan rekan.",
+      "5–15 mnt: shadowing satu video SergiiSpeaks.",
+      "15–20 mnt: simpan 3–5 frasa ke Frasa.",
+      "20–30 mnt: ngobrol santai 10 menit dengan Claude lewat suara (akhir pekan, hobi, pekerjaan). Minta koreksi di akhir dan simpan perbaikannya."
      ],
      "p": [
-      "Versi 15 menit untuk malam yang lelah: ulas 5 menit + materi 10 menit. Jangan dilewatkan sama sekali.",
-      "Taruh headset dan buku catatan di tempat yang sama setiap hari.",
-      "Pilih materi tentang desain, UX, dan dunia kerja supaya berguna untuk lamaran."
+      "Tonton: SergiiSpeaks (frasa sehari-hari).",
+      "Frasa (aplikasi kartu): claude.ai/artifact/M6uajbTbTa4ddbKxEpDLtf.",
+      "Malam yang lelah: cukup 15 menit Frasa, ucapkan jawabannya keras-keras. Jangan dilewatkan.",
+      "Rekaman HP cukup untuk latihan bicara; simpan semuanya di satu album.",
+      "Duolingo boleh 5 menit sebagai pemanasan, bukan menu utama."
      ]
     },
     {
@@ -1963,15 +1990,16 @@
      "t": "Belajar bahasa Inggris",
      "n": "Satu fokus per hari. Versi singkat 15 menit untuk malam yang lelah.",
      "d": [
-      "Fokus hari ini: Review ringan: ulas kartu kosakata saja.",
-      "5 menit: ulas kartu kosakata kemarin (Anki, Quizlet, atau kartu kertas).",
-      "15–20 menit: satu materi utama sesuai fokus hari ini.",
-      "5 menit: tulis 5 kata atau ungkapan baru dalam kalimat buatan sendiri."
+      "Tema hari ini: Ulas ringan.",
+      "15 mnt: Frasa saja, mode Indonesia → ucapkan Inggris. Ucapkan setiap jawaban dengan suara keras.",
+      "Malam ini padat: tidak perlu shadowing atau rekaman."
      ],
      "p": [
-      "Versi 15 menit untuk malam yang lelah: ulas 5 menit + materi 10 menit. Jangan dilewatkan sama sekali.",
-      "Taruh headset dan buku catatan di tempat yang sama setiap hari.",
-      "Pilih materi tentang desain, UX, dan dunia kerja supaya berguna untuk lamaran."
+      "Tonton: opsional: satu video SergiiSpeaks sambil santai.",
+      "Frasa (aplikasi kartu): claude.ai/artifact/M6uajbTbTa4ddbKxEpDLtf.",
+      "Malam yang lelah: cukup 15 menit Frasa, ucapkan jawabannya keras-keras. Jangan dilewatkan.",
+      "Rekaman HP cukup untuk latihan bicara; simpan semuanya di satu album.",
+      "Duolingo boleh 5 menit sebagai pemanasan, bukan menu utama."
      ]
     },
     {
@@ -2250,15 +2278,17 @@
      "t": "Belajar bahasa Inggris",
      "n": "Sabtu: fokus bebas dan santai.",
      "d": [
-      "Fokus hari ini: Bebas: tonton video berbahasa Inggris 15 menit, tanpa subtitle.",
-      "5 menit: ulas kartu kosakata kemarin (Anki, Quizlet, atau kartu kertas).",
-      "15–20 menit: satu materi utama sesuai fokus hari ini.",
-      "5 menit: tulis 5 kata atau ungkapan baru dalam kalimat buatan sendiri."
+      "Tema hari ini: Bebas.",
+      "0–5 mnt: Frasa, ulas kartu jatuh tempo.",
+      "5–20 mnt: tonton video berbahasa Inggris yang Anda suka, tanpa subtitle Indonesia.",
+      "20–30 mnt: pilih 3 frasa favorit pekan ini, ucapkan masing-masing dalam kalimat buatan sendiri."
      ],
      "p": [
-      "Versi 15 menit untuk malam yang lelah: ulas 5 menit + materi 10 menit. Jangan dilewatkan sama sekali.",
-      "Taruh headset dan buku catatan di tempat yang sama setiap hari.",
-      "Pilih materi tentang desain, UX, dan dunia kerja supaya berguna untuk lamaran."
+      "Tonton: bebas: video desain, teknologi, atau apa pun yang Anda suka, dalam bahasa Inggris.",
+      "Frasa (aplikasi kartu): claude.ai/artifact/M6uajbTbTa4ddbKxEpDLtf.",
+      "Malam yang lelah: cukup 15 menit Frasa, ucapkan jawabannya keras-keras. Jangan dilewatkan.",
+      "Rekaman HP cukup untuk latihan bicara; simpan semuanya di satu album.",
+      "Duolingo boleh 5 menit sebagai pemanasan, bukan menu utama."
      ]
     },
     {
@@ -2660,6 +2690,298 @@
      "Laptop sudah tertutup sejak selesai Tilawati.",
      "Tidur paling lambat 22.45, bangun 04.00.",
      "Pekerjaan sisa pindah ke blok pagi besok."
+    ]
+   }
+  ],
+  "2026-11-21": [
+   {
+    "s": "04:00",
+    "e": "05:00",
+    "c": "ibadah",
+    "t": "Bangun & sholat Subuh",
+    "n": "Kemarin Anda sakit: hari ini ukur tenaga dulu. Kalau masih lemas, kerjakan hanya LinkedIn dan formulir Tilawati, sisanya geser.",
+    "d": [
+     "Wudhu dan sholat Subuh.",
+     "Minum 1–2 gelas air putih.",
+     "Kalau terbangun lebih awal (01.00–03.00) setelah tidur awal, manfaatkan untuk tahajjud."
+    ],
+    "p": [
+     "Taruh air di samping tempat tidur.",
+     "Jangan membuka HP sebelum sholat dan minum."
+    ]
+   },
+   {
+    "s": "05:00",
+    "e": "06:30",
+    "c": "deep",
+    "t": "Deep work: remake profil LinkedIn",
+    "n": "Target: profil siap dipakai melamar. Ini tugas paling penting untuk pencarian kerja.",
+    "d": [
+     "Siapkan CV terbaru dan 2–3 proyek terkuat.",
+     "20 menit: headline, tulis 3 varian, pilih satu.",
+     "30 menit: About, tiga paragraf: siapa Anda, hasil nyata, apa yang dicari.",
+     "30 menit: Experience, 3–4 butir hasil terukur per peran.",
+     "10 menit: foto, banner, URL, 5 skill utama, aktifkan Open to Work (hanya perekrut)."
+    ],
+    "p": [
+     "Terbitkan hari ini, poles lagi akhir pekan.",
+     "Ambil kata kunci dari 3 lowongan UX/UI atau Product Designer yang Anda incar.",
+     "Kalau lemas, kerjakan headline dan About dulu; Experience bisa besok.",
+     "HP senyap."
+    ]
+   },
+   {
+    "s": "06:30",
+    "e": "07:30",
+    "c": "energi",
+    "t": "Sarapan & santai",
+    "n": "Tidak ada antar sekolah hari ini.",
+    "d": [
+     "Sarapan berprotein dan minum air yang cukup.",
+     "Duduk tenang sebentar sebelum mulai kerja."
+    ],
+    "p": [
+     "Tidak perlu membuka pesan klien dulu."
+    ]
+   },
+   {
+    "s": "07:30",
+    "e": "08:30",
+    "c": "kerja",
+    "t": "Kerja: formulir umpan balik kelas Tilawati",
+    "n": "Kelas berakhir 22 November, formulir harus terkirim hari ini supaya peserta sempat mengisi.",
+    "d": [
+     "10 menit: tentukan tujuan formulir (menilai kelas, pengajar, dan minat batch berikutnya) dan siapa penerimanya.",
+     "15 menit: tulis pertanyaan: 3–4 skala 1–5, 2 pertanyaan terbuka, 1 pertanyaan 'ikut batch berikutnya?'.",
+     "25 menit: minta Claude membuat formulirnya dalam satu halaman yang mudah dibuka di HP.",
+     "10 menit: coba isi sendiri, lalu kirim tautannya ke grup."
+    ],
+    "p": [
+     "Maksimal 8 pertanyaan supaya cepat diisi.",
+     "Anonim lebih jujur, tetapi minta nama kalau perlu menghubungi untuk batch berikutnya.",
+     "Kirim sebelum Zuhur supaya ada waktu mengisi sebelum kelas selesai."
+    ]
+   },
+   {
+    "s": "08:30",
+    "e": "09:15",
+    "c": "ringan",
+    "t": "Diskusi olahraga dan pola makan keluarga",
+    "n": "Ngobrol dengan Claude, bukan olahraga berat. Tujuan: 3 kebiasaan makan dan 1 rutinitas olahraga yang realistis.",
+    "d": [
+     "Ceritakan kebiasaan makan sekarang: sarapan, makan siang, jajan anak, siapa yang memasak, anggaran, dan pantangan di keluarga.",
+     "Ceritakan kondisi badan dan waktu olahraga yang tersedia (10 menit gerak pagi sudah ada di jadwal).",
+     "Pilih 3 kebiasaan makan dan 1 olahraga keluarga, lalu masukkan ke jadwal."
+    ],
+    "p": [
+     "Siapkan jawaban sebelum mulai supaya cepat.",
+     "Kalau masih terasa sakit atau ada penyakit tertentu, sampaikan dan konsultasikan ke dokter untuk hal medis."
+    ]
+   },
+   {
+    "s": "09:15",
+    "e": "10:30",
+    "c": "keluarga",
+    "t": "Istirahat & waktu bersama anak",
+    "n": "Anak-anak libur, tidak ada jemput sekolah. Pulihkan tenaga.",
+    "d": [
+     "Rebahan, minum air, atau bermain tenang dengan anak.",
+     "Kalau badan sudah enak, jalan santai 10–15 menit di sekitar rumah."
+    ],
+    "p": [
+     "Tidak perlu membuka laptop."
+    ]
+   },
+   {
+    "s": "10:30",
+    "e": "10:45",
+    "c": "energi",
+    "t": "Jeda & minum",
+    "n": "",
+    "d": [
+     "Minum, ke toilet, peregangan."
+    ],
+    "p": [
+     "Berdiri dan jalan sebentar."
+    ]
+   },
+   {
+    "s": "10:45",
+    "e": "12:30",
+    "c": "keluarga",
+    "t": "Waktu keluarga & istirahat",
+    "n": "Jalan-jalan hanya kalau badan sudah kuat. Kalau belum, di rumah saja.",
+    "d": [
+     "Bermain, ngobrol, atau santai bersama keluarga."
+    ],
+    "p": [
+     "Hemat tenaga untuk sesi proyek klien siang nanti."
+    ]
+   },
+   {
+    "s": "12:30",
+    "e": "13:00",
+    "c": "energi",
+    "t": "Makan siang",
+    "n": "",
+    "d": [
+     "Isi piring: separuh sayur dan buah, seperempat nasi, seperempat lauk.",
+     "Lauk: ayam, ikan, telur, tempe, tahu."
+    ],
+    "p": [
+     "Porsi sedang supaya tidak mengantuk.",
+     "Hindari minuman manis dan gorengan banyak.",
+     "Minum 1–2 gelas air putih."
+    ]
+   },
+   {
+    "s": "13:00",
+    "e": "13:20",
+    "c": "energi",
+    "t": "Qailulah 20 menit",
+    "n": "",
+    "d": [
+     "Rebahan 20 menit. Tidak harus tidur nyenyak.",
+     "Pasang alarm."
+    ],
+    "p": [
+     "Lampu redup dan HP jauh dari tangan.",
+     "Maksimal 30 menit supaya malam tetap bisa tidur."
+    ]
+   },
+   {
+    "s": "13:30",
+    "e": "15:00",
+    "c": "kerja",
+    "t": "Kerja: proyek klien jadi kode (satu layar)",
+    "n": "Target: kerangka jalan dan satu layar utama tampil di tautan pratinjau.",
+    "d": [
+     "10 menit: pilih satu proyek klien, tulis MVP (maksimal 3 layar atau fitur).",
+     "20 menit: siapkan repo, framework, dan token desain.",
+     "50 menit: bangun layar pertama dengan data contoh.",
+     "10 menit: deploy ke tautan pratinjau, catat langkah berikutnya."
+    ],
+    "p": [
+     "Satu layar jadi lebih baik daripada tiga layar setengah jadi.",
+     "Alur utama dulu, gaya dan detail belakangan.",
+     "Kalau ada ujian Tilawati sekitar 14.00–15.00, cukup kerjakan langkah 1 dan 2."
+    ]
+   },
+   {
+    "s": "15:00",
+    "e": "15:15",
+    "c": "ibadah",
+    "t": "Sholat Ashar",
+    "n": "",
+    "d": [
+     "Sholat Ashar tepat waktu.",
+     "Peregangan ringan."
+    ],
+    "p": [
+     "Jangan menunggu terlalu mepet akhir waktu."
+    ]
+   },
+   {
+    "s": "15:15",
+    "e": "16:00",
+    "c": "keluarga",
+    "t": "Santai bersama keluarga, bersiap",
+    "n": "",
+    "d": [
+     "Santai, lalu bersiap berangkat kumpul 15.45."
+    ],
+    "p": [
+     "Siapkan catatan kecil untuk tausiah."
+    ]
+   },
+   {
+    "s": "16:00",
+    "e": "17:30",
+    "c": "ibadah",
+    "t": "Kumpul & tausiah pekanan bersama teman",
+    "n": "Boleh dilewati kalau badan belum pulih.",
+    "d": [
+     "Berangkat 15.45, kumpul 16.00, sampai Maghrib sekitar 17.30."
+    ],
+    "p": [
+     "Catat satu pelajaran dari tausiah."
+    ]
+   },
+   {
+    "s": "17:30",
+    "e": "19:15",
+    "c": "ibadah",
+    "t": "Maghrib, makan malam, Isya berjamaah",
+    "n": "",
+    "d": [
+     "Sholat Maghrib, makan malam bersama keluarga, sholat Isya berjamaah di masjid.",
+     "Kalau makan sebelum Maghrib, baca Al-Qur'an sebelum Isya."
+    ],
+    "p": [
+     "Usulkan makan malam sebelum Maghrib supaya ada waktu tilawah.",
+     "Jalan kaki ke masjid kalau terjangkau."
+    ]
+   },
+   {
+    "s": "19:30",
+    "e": "20:00",
+    "c": "ringan",
+    "t": "Tilawah pribadi",
+    "n": "Malam tanpa Tilawati: tilawah lebih panjang dan tenang.",
+    "d": [
+     "Tilawah lebih panjang dan tenang karena tidak ada Tilawati."
+    ],
+    "p": [
+     "Tempat yang tenang, HP senyap."
+    ]
+   },
+   {
+    "s": "20:00",
+    "e": "20:30",
+    "c": "belajar",
+    "t": "Belajar bahasa Inggris",
+    "n": "Sabtu: fokus bebas dan santai.",
+    "d": [
+     "Tema hari ini: Bebas.",
+     "0–5 mnt: Frasa, ulas kartu jatuh tempo.",
+     "5–20 mnt: tonton video berbahasa Inggris yang Anda suka, tanpa subtitle Indonesia.",
+     "20–30 mnt: pilih 3 frasa favorit pekan ini, ucapkan masing-masing dalam kalimat buatan sendiri."
+    ],
+    "p": [
+     "Tonton: bebas: video desain, teknologi, atau apa pun yang Anda suka, dalam bahasa Inggris.",
+     "Frasa (aplikasi kartu): claude.ai/artifact/M6uajbTbTa4ddbKxEpDLtf.",
+     "Malam yang lelah: cukup 15 menit Frasa, ucapkan jawabannya keras-keras. Jangan dilewatkan.",
+     "Rekaman HP cukup untuk latihan bicara; simpan semuanya di satu album.",
+     "Duolingo boleh 5 menit sebagai pemanasan, bukan menu utama."
+    ]
+   },
+   {
+    "s": "20:30",
+    "e": "21:30",
+    "c": "keluarga",
+    "t": "Malam santai bersama keluarga",
+    "n": "Tanpa laptop. Waktu untuk istri dan anak-anak.",
+    "d": [
+     "Santai bersama keluarga, tanpa laptop.",
+     "Bersiap tidur lebih awal."
+    ],
+    "p": [
+     "Matikan layar 30 menit sebelum tidur."
+    ]
+   },
+   {
+    "s": "21:30",
+    "e": "04:00",
+    "c": "energi",
+    "t": "Tidur lebih awal",
+    "n": "Membayar utang tidur sepekan. Besok ada Tilawati pagi.",
+    "d": [
+     "Tidur jam 21.30 untuk menebus kurang tidur sepekan.",
+     "Besok ada Tilawati pagi."
+    ],
+    "p": [
+     "HP jauh dari tempat tidur.",
+     "Matikan lampu terang."
     ]
    }
   ]
