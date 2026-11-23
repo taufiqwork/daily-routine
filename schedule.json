@@ -3572,25 +3572,26 @@
    },
    {
     "s": "05:00",
-    "e": "05:30",
+    "e": "05:10",
     "c": "ibadah",
     "t": "Tilawah di depan guru",
-    "n": "Jadwal 05.00–05.15, selesai paling lambat 05.30. Siapkan bacaan sejak malam sebelumnya.",
-    "d": [
-     "Mulai tepat 05.00 setelah Subuh.",
-     "Ulang bacaan yang akan disetor 5 menit sebelumnya.",
-     "Catat koreksi guru untuk diulang besok."
-    ],
-    "p": [
-     "Siapkan mushaf dan tempat duduk dari malam sebelumnya."
-    ]
+    "n": "Hari ini hanya sampai 05.10."
    },
    {
-    "s": "05:30",
+    "s": "05:10",
     "e": "06:00",
     "c": "deep",
-    "t": "Deep work tambahan (Tilawati libur)",
-    "n": "Sisa pagi untuk target utama: lamaran kerja, portofolio, atau proyek klien."
+    "t": "Refining bug dan tampilan Tasmi' dan Solide",
+    "n": "Dua aplikasi sendiri, 50 menit. Targetnya perbaikan kecil yang selesai, bukan fitur baru.",
+    "d": [
+     "05.10–05.35: Tasmi', daftar bug yang paling mengganggu lalu perbaiki satu per satu.",
+     "05.35–06.00: Solide, rapikan tampilan yang paling sering terlihat.",
+     "Berhenti tepat 06.00, catat sisa pekerjaan untuk besok."
+    ],
+    "p": [
+     "Kerjakan yang paling terlihat pengguna lebih dulu.",
+     "HP senyap."
+    ]
    },
    {
     "s": "06:00",
@@ -3626,17 +3627,16 @@
     "s": "07:30",
     "e": "10:00",
     "c": "deep",
-    "t": "Deep work",
-    "n": "Satu target utama yang dipilih tadi malam. HP senyap, tanpa chat dan email.",
+    "t": "Deep work: build live app proyek klien",
+    "n": "Prioritas utama hari ini. Lanjutkan mockup hi-fi menjadi kode live di tautan pratinjau.",
     "d": [
-     "Kerjakan satu target utama yang ditulis tadi malam.",
-     "Satu tugas saja: desain, coding, atau revisi besar.",
-     "Berhenti tepat waktu dan tulis catatan 'lanjut dari sini'."
+     "07.30–07.45: tentukan layar yang diselesaikan hari ini.",
+     "07.45–09.30: bangun layar menjadi kode.",
+     "09.30–10.00: cek di HP, terbitkan ke tautan pratinjau, catat sisa pekerjaan."
     ],
     "p": [
-     "HP senyap dan di luar jangkauan tangan. Tutup tab WhatsApp dan email.",
-     "Timer 50 menit kerja, 5–10 menit jeda (minum, peregangan).",
-     "Mulai dari bagian tersulit selagi otak segar."
+     "HP senyap, tanpa WhatsApp dan email.",
+     "Selesaikan satu layar penuh sebelum pindah."
     ]
    },
    {
@@ -3687,23 +3687,17 @@
    {
     "s": "11:15",
     "e": "12:15",
-    "c": "ringan",
-    "t": "Menunggu di rumah orang tua",
-    "n": "Jemput anak kedua 11.30. Isi waktu: sholat Zuhur, tilawah, balas pesan klien, admin, lamaran kerja.",
+    "c": "kerja",
+    "t": "Kirim lamaran kerja",
+    "n": "Pekerjaan ringan yang cocok untuk jam menunggu.",
     "d": [
-     "Sholat Zuhur di sini kalau waktunya sudah masuk.",
-     "10 menit: buka Frasa di HP, ulas kartu jatuh tempo.",
-     "Tilawah pribadi 15–20 menit.",
-     "Balas pesan klien dan kirim kabar progres pagi tadi.",
-     "Lamaran kerja: cari lowongan, kirim 1 lamaran, perbarui profil LinkedIn.",
-     "Kumpulkan referensi desain untuk tugas besok.",
-     "Admin: invoice dan jadwal meeting.",
-     "Catat ide konten atau perbaikan produk."
+     "Pilih 2–3 lowongan UX/UI atau Product Designer yang paling cocok.",
+     "Sesuaikan headline dan paragraf pembuka tiap lamaran.",
+     "Kirim, lalu catat di daftar pelacak lamaran."
     ],
     "p": [
-     "Pilih tugas 5–15 menit yang bisa dihentikan kapan saja.",
-     "Anak kedua pulang 11.30. Pasang alarm supaya tidak telat.",
-     "Bawa charger dan headset."
+     "Kualitas lebih penting dari jumlah.",
+     "Lampirkan tautan portofolio terbaik."
     ]
    },
    {
@@ -3752,17 +3746,23 @@
    },
    {
     "s": "13:40",
-    "e": "15:00",
+    "e": "14:30",
     "c": "kerja",
-    "t": "Kerja sesi 2",
-    "n": "Revisi, lanjutan pekerjaan pagi, riset.",
+    "t": "Kerja sesi 2: lanjut build proyek klien",
+    "n": "Lanjutkan layar pagi atau mulai layar berikutnya."
+   },
+   {
+    "s": "14:30",
+    "e": "15:00",
+    "c": "ringan",
+    "t": "Atur widget daily routine dan optimasi HP",
+    "n": "Cukup 30 menit.",
     "d": [
-     "Revisi, lanjutan pekerjaan pagi, riset, merapikan file.",
-     "Kerjakan hal yang butuh fokus sedang."
+     "Unggah schedule.json dengan update-jadwal.sh.",
+     "Cek izin alarm presisi, penghemat baterai, dan Autostart di HP."
     ],
     "p": [
-     "Cuci muka dulu sebelum mulai.",
-     "Kalau ngantuk, jalan 3 menit atau minum air."
+     "Kalau belum selesai, lanjutkan akhir pekan."
     ]
    },
    {
@@ -3781,20 +3781,26 @@
    },
    {
     "s": "15:15",
-    "e": "17:15",
+    "e": "16:45",
     "c": "keluarga",
-    "t": "Waktu bersama anak",
-    "n": "Main aktif: sepeda, bola, jalan sore. Sekaligus jadi olahraga Anda.",
+    "t": "Mengajari anak untuk ujian matematika besok",
+    "n": "Fokus pada soal latihan dan bagian yang paling sulit bagi anak.",
     "d": [
-     "Sepeda, bola, badminton, atau jalan sore.",
-     "Sirkuit 'Latihan Ninja' 15 menit.",
-     "Permainan tradisional: gobak sodor, engklek, lompat tali."
+     "Mulai dari topik yang paling lemah.",
+     "Kerjakan beberapa soal latihan bersama, minta anak menjelaskan caranya.",
+     "Akhiri dengan ringkasan rumus atau langkah penting."
     ],
     "p": [
-     "HP disimpan. Fokus ke anak.",
-     "Ayah ikut bergerak, itu olahraga Anda.",
-     "Hari hujan: lantai adalah lava, menari, yoga gerakan hewan."
+     "Sesi pendek 20–25 menit lebih efektif lalu jeda.",
+     "Siapkan alat tulis dan soal sebelum mulai."
     ]
+   },
+   {
+    "s": "16:45",
+    "e": "17:15",
+    "c": "keluarga",
+    "t": "Bersama anak, santai",
+    "n": "Jeda setelah belajar."
    },
    {
     "s": "17:30",
@@ -3837,23 +3843,18 @@
    },
    {
     "s": "20:45",
-    "e": "21:15",
+    "e": "21:30",
     "c": "belajar",
-    "t": "Belajar bahasa Inggris",
-    "n": "Satu fokus per hari. Versi singkat 15 menit untuk malam yang lelah.",
+    "t": "Deep talk dengan Claude: olahraga dan belajar bahasa Inggris",
+    "n": "Gabungan sesi bahasa Inggris dan diskusi olahraga.",
     "d": [
-     "Tema hari ini: Cerita proyek.",
-     "0–5 mnt: Frasa, filter tema Cerita proyek.",
-     "5–15 mnt: shadowing 2–3 menit cuplikan design leader yang bercerita tentang proyek.",
-     "15–20 mnt: simpan 3–5 frasa ke Frasa.",
-     "20–30 mnt: ceritakan satu proyek portofolio dengan pola tujuan → tantangan → yang saya lakukan → hasil. Rekam 90 detik."
+     "Olahraga: tentukan bentuk, durasi, dan hari yang realistis dengan jadwal anak.",
+     "Bahasa Inggris: tentukan satu perbaikan metode dan target pekan ini.",
+     "Tulis satu keputusan dari tiap topik."
     ],
     "p": [
-     "Tonton: Design MBA (wawancara design leader): ambil bagian saat tamu menceritakan proyeknya.",
-     "Frasa (aplikasi kartu): claude.ai/artifact/M6uajbTbTa4ddbKxEpDLtf.",
-     "Malam yang lelah: cukup 15 menit Frasa, ucapkan jawabannya keras-keras. Jangan dilewatkan.",
-     "Rekaman HP cukup untuk latihan bicara; simpan semuanya di satu album.",
-     "Duolingo boleh 5 menit sebagai pemanasan, bukan menu utama."
+     "Siapkan dua pertanyaan sebelum mulai.",
+     "Selesai 21.30, lalu tidur."
     ]
    },
    {
