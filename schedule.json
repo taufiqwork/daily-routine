@@ -3879,202 +3879,121 @@
     "e": "05:00",
     "c": "ibadah",
     "t": "Bangun & sholat Subuh",
-    "n": "Kalau tidur jam 22.00, boleh bangun lebih awal untuk tahajjud.",
-    "d": [
-     "Wudhu dan sholat Subuh.",
-     "Minum 1–2 gelas air putih.",
-     "Kalau terbangun lebih awal (01.00–03.00) setelah tidur awal, manfaatkan untuk tahajjud."
-    ],
+    "n": "Hari padat dengan banyak antar-jemput. Tidur cukup tadi malam adalah modalnya.",
     "p": [
-     "Taruh air di samping tempat tidur.",
-     "Jangan membuka HP sebelum sholat dan minum."
+     "Siapkan target tiga blok pagi dari malam sebelumnya."
     ]
    },
    {
     "s": "05:00",
-    "e": "06:00",
+    "e": "06:10",
     "c": "deep",
-    "t": "Deep work tambahan (Tilawati libur)",
-    "n": "Kelas libur sampai batch baru. Satu jam ini untuk target utama: portofolio, lamaran kerja, atau proyek klien.",
+    "t": "Deep work 1: build live app proyek klien",
+    "n": "Mulai langsung dari titik ini: sesuaikan kode live app dengan board terkait, khususnya state menyimpan dan galat. Setelah itu lanjut ke tahap berikutnya, sejauh yang bisa dicapai di waktu terbatas ini.",
     "d": [
-     "Tulis satu target di awal blok, lalu kerjakan sampai selesai.",
-     "Prioritas pekan ini: lamaran kerja dan portofolio, lalu proyek klien."
+     "Buka board terkait dan kode live app berdampingan.",
+     "Pertama: samakan state menyimpan (sedang menyimpan, berhasil, gagal) dengan board.",
+     "Kedua: samakan state galat (pesan, posisi, tombol coba lagi) dengan board.",
+     "Setelah dua hal itu sesuai, langsung lanjut ke tahap berikutnya tanpa berhenti untuk menyempurnakan.",
+     "Akhiri dengan catatan satu baris: lanjut dari mana."
     ],
     "p": [
-     "HP senyap, tanpa WhatsApp dan email."
+     "File, board, dan target sudah dibuka dari malam sebelumnya.",
+     "Jangan cek pesan atau media sosial sebelum blok ini selesai.",
+     "Berhenti tepat 06.10 supaya tidak telat antar."
     ]
    },
    {
-    "s": "06:00",
-    "e": "06:30",
+    "s": "06:10",
+    "e": "06:25",
     "c": "energi",
-    "t": "Sarapan + cek pesan singkat",
-    "n": "Sarapan berprotein, lihat Panduan: Menu. Cek pesan maksimal 10 menit.",
-    "d": [
-     "Sarapan berprotein: telur, tempe atau tahu, nasi secukupnya, buah.",
-     "Cek email dan WhatsApp klien maksimal 10 menit. Tandai yang perlu dibalas.",
-     "Buka file yang dibutuhkan untuk deep work."
-    ],
-    "p": [
-     "Rebus telur untuk 3 hari sekaligus di malam hari.",
-     "Membalas pesan ditunda sampai waktu menunggu anak."
-    ]
+    "t": "Sarapan singkat dan siapkan anak"
    },
    {
-    "s": "06:30",
-    "e": "07:30",
+    "s": "06:25",
+    "e": "07:00",
     "c": "keluarga",
-    "t": "Antar sekolah (jika giliran)",
-    "n": "Kalau anak diantar kakek atau ibunya, mulai deep work jam 06.30.",
-    "d": [
-     "Antar anak ke sekolah kalau giliran Anda.",
-     "Kalau bukan giliran, mulai deep work lebih awal (06.30)."
-    ],
-    "p": [
-     "Putuskan giliran antar malam sebelumnya supaya pagi tidak bingung."
-    ]
+    "t": "Antar sekolah"
    },
    {
-    "s": "07:30",
-    "e": "10:00",
+    "s": "07:00",
+    "e": "08:10",
     "c": "deep",
-    "t": "Deep work",
-    "n": "Satu target utama yang dipilih tadi malam. HP senyap, tanpa chat dan email.",
+    "t": "Deep work 2: lanjut build proyek klien",
+    "n": "Lanjutkan dari catatan blok 1. Dorong tahap berikutnya sejauh mungkin sampai 08.10.",
     "d": [
-     "Kerjakan satu target utama yang ditulis tadi malam.",
-     "Satu tugas saja: desain, coding, atau revisi besar.",
-     "Berhenti tepat waktu dan tulis catatan 'lanjut dari sini'."
+     "Baca catatan lanjut dari blok 1, lalu langsung kerja.",
+     "Teruskan tahap berikutnya setelah state menyimpan dan galat.",
+     "Targetkan hasil yang bisa dilihat di tampilan, bukan penyempurnaan kecil."
     ],
     "p": [
-     "HP senyap dan di luar jangkauan tangan. Tutup tab WhatsApp dan email.",
-     "Timer 50 menit kerja, 5–10 menit jeda (minum, peregangan).",
-     "Mulai dari bagian tersulit selagi otak segar."
+     "Berhenti 08.10 untuk berangkat jemput."
     ]
    },
    {
-    "s": "10:00",
-    "e": "10:10",
-    "c": "energi",
-    "t": "Gerak 10 menit",
-    "n": "Squat, push-up, peregangan setelah duduk lama.",
-    "d": [
-     "Squat 15x, push-up 10x, peregangan leher, punggung, dan pinggang.",
-     "Minum air dan ke toilet."
-    ],
-    "p": [
-     "Cukup 10 menit. Jangan sampai berkeringat banyak karena akan menjemput anak."
-    ]
-   },
-   {
-    "s": "10:10",
-    "e": "10:25",
+    "s": "08:10",
+    "e": "09:00",
     "c": "keluarga",
-    "t": "Bersiap berangkat",
-    "n": "Toilet, cuci muka atau wudhu, ganti baju, panaskan mobil, siapkan bawaan: HP, dompet, kunci, air minum, mushaf atau HP berisi Al-Qur'an.",
+    "t": "Jemput anak pertama (08.30), lalu pulang"
+   },
+   {
+    "s": "09:00",
+    "e": "10:30",
+    "c": "deep",
+    "t": "Kerja 3: selesaikan layar, cek di HP, terbitkan pratinjau",
+    "n": "Blok penutup layar klien hari ini. Capai sejauh mungkin, lalu terbitkan.",
     "d": [
-     "Toilet, cuci muka atau wudhu, ganti baju.",
-     "Panaskan mobil.",
-     "Bawaan: HP, dompet, kunci, air minum, headset, mushaf atau HP berisi Al-Qur'an."
+     "09.00–09.50: rapikan sampai sesuai mockup.",
+     "09.50–10.15: cek di HP dan perbaiki yang aneh.",
+     "10.15–10.30: terbitkan ke tautan pratinjau, catat sisa pekerjaan."
     ],
     "p": [
-     "Siapkan tas kecil permanen di dekat pintu.",
-     "Isi daya HP sebelum berangkat."
+     "Kalau belum selesai, catat sisanya dan lanjut di sesi sore."
     ]
    },
    {
-    "s": "10:25",
-    "e": "11:15",
-    "c": "keluarga",
-    "t": "Berangkat, jemput anak pertama",
-    "n": "Paling lambat berangkat 10.30.",
-    "d": [
-     "Berangkat paling lambat 10.30, jemput anak pertama jam 11.00.",
-     "Di jalan: dengarkan podcast Speak Confident English atau Business English Pod (cukup audionya)."
-    ],
-    "p": [
-     "Ulangi pelan frasa yang tertangkap telinga; nanti simpan ke Frasa saat menunggu.",
-     "Bergantian dengan kajian kalau sedang ingin."
-    ]
-   },
-   {
-    "s": "11:15",
-    "e": "12:15",
-    "c": "ringan",
-    "t": "Menunggu di rumah orang tua",
-    "n": "Jemput anak kedua 11.30. Isi waktu: sholat Zuhur, tilawah, balas pesan klien, admin, lamaran kerja.",
-    "d": [
-     "Sholat Zuhur di sini kalau waktunya sudah masuk.",
-     "10 menit: buka Frasa di HP, ulas kartu jatuh tempo.",
-     "Tilawah pribadi 15–20 menit.",
-     "Balas pesan klien dan kirim kabar progres pagi tadi.",
-     "Lamaran kerja: cari lowongan, kirim 1 lamaran, perbarui profil LinkedIn.",
-     "Kumpulkan referensi desain untuk tugas besok.",
-     "Admin: invoice dan jadwal meeting.",
-     "Catat ide konten atau perbaikan produk."
-    ],
-    "p": [
-     "Pilih tugas 5–15 menit yang bisa dihentikan kapan saja.",
-     "Anak kedua pulang 11.30. Pasang alarm supaya tidak telat.",
-     "Bawa charger dan headset."
-    ]
-   },
-   {
-    "s": "12:15",
-    "e": "12:45",
-    "c": "keluarga",
-    "t": "Jemput anak ketiga & pulang",
-    "n": "",
-    "d": [
-     "Jemput anak ketiga jam 12.15, lalu pulang bersama semua anak."
-    ],
-    "p": [
-     "Dengarkan cerita sekolah mereka di mobil. Ini waktu dekat yang bagus."
-    ]
-   },
-   {
-    "s": "12:45",
-    "e": "13:15",
+    "s": "10:30",
+    "e": "10:40",
     "c": "energi",
-    "t": "Makan siang",
-    "n": "Porsi sedang, kurangi nasi supaya tidak mengantuk di sesi kerja berikutnya.",
-    "d": [
-     "Isi piring: separuh sayur dan buah, seperempat nasi, seperempat lauk.",
-     "Lauk: ayam, ikan, telur, tempe, tahu."
-    ],
-    "p": [
-     "Porsi sedang supaya tidak mengantuk.",
-     "Hindari minuman manis dan gorengan banyak.",
-     "Minum 1–2 gelas air putih."
-    ]
+    "t": "Gerak 10 menit"
    },
    {
-    "s": "13:15",
-    "e": "13:35",
+    "s": "10:40",
+    "e": "11:30",
+    "c": "keluarga",
+    "t": "Jemput anak-anak lainnya (11.00), lalu pulang"
+   },
+   {
+    "s": "11:30",
+    "e": "11:45",
+    "c": "ibadah",
+    "t": "Sholat Zuhur"
+   },
+   {
+    "s": "11:45",
+    "e": "12:30",
     "c": "energi",
-    "t": "Qailulah 20 menit",
-    "n": "Pasang alarm. Jangan lebih dari 30 menit.",
-    "d": [
-     "Rebahan 20 menit. Tidak harus tidur nyenyak.",
-     "Pasang alarm."
-    ],
-    "p": [
-     "Lampu redup dan HP jauh dari tangan.",
-     "Maksimal 30 menit supaya malam tetap bisa tidur."
-    ]
+    "t": "Makan siang dan istirahat"
    },
    {
-    "s": "13:40",
+    "s": "12:30",
+    "e": "12:50",
+    "c": "energi",
+    "t": "Qailulah 20 menit"
+   },
+   {
+    "s": "13:00",
     "e": "14:45",
     "c": "kerja",
-    "t": "Kerja sesi 2 (lebih pendek)",
-    "n": "Revisi atau lanjutan pekerjaan pagi.",
+    "t": "Kirim lamaran kerja",
+    "n": "Pekerjaan ringan yang menjadi prioritas kedua hari ini.",
     "d": [
-     "Revisi, lanjutan pekerjaan pagi, riset, merapikan file.",
-     "Kerjakan hal yang butuh fokus sedang."
+     "Pilih 2–3 lowongan UX/UI atau Product Designer yang paling cocok.",
+     "Sesuaikan headline dan paragraf pembuka tiap lamaran.",
+     "Kirim, lalu catat di pelacak lamaran."
     ],
     "p": [
-     "Cuci muka dulu sebelum mulai.",
-     "Kalau ngantuk, jalan 3 menit atau minum air."
+     "Kualitas lebih penting dari jumlah."
     ]
    },
    {
@@ -4122,8 +4041,8 @@
     "s": "15:45",
     "e": "17:00",
     "c": "kerja",
-    "t": "Kerja sesi 3 di rumah orang tua",
-    "n": "Bawa laptop: 75 menit untuk revisi, riset, atau tilawah. Bisa juga jalan kaki 20 menit.",
+    "t": "Kerja sesi 3: revisi ringan atau balas pesan",
+    "n": "Waktu menunggu les renang. Pekerjaan ringan saja.",
     "d": [
      "Revisi kecil dari feedback klien.",
      "Riset dan merapikan alur untuk tugas besok.",
