@@ -383,25 +383,24 @@
     },
     {
      "s": "10:00",
-     "e": "10:10",
+     "e": "10:15",
      "c": "energi",
-     "t": "Latihan ringan",
-     "n": "Fase 0: 1–2 repetisi saja. Catat di pelacak.",
+     "t": "Latihan di rumah",
+     "n": "Ikuti angka di pelacak. Selesai 10.15.",
      "d": [
-      "Pemanasan 2 menit: putar bahu, putar pinggul, jalan di tempat.",
-      "Squat ke kursi 1–2 kali, pelan, duduk lalu berdiri.",
-      "Push-up di dinding atau lutut 1–2 kali.",
-      "Menggantung di palang 3–5 detik, kaki boleh tetap menyentuh lantai.",
-      "Minum air, lalu catat di pelacak olahraga."
+      "Pemanasan 2 menit: putar bahu dan pinggul, jalan di tempat, squat tanpa beban 5 kali.",
+      "Kerjakan 2 putaran: squat, push-up, dayung dumbbell, menggantung di palang.",
+      "Angka tiap gerakan ada di pelacak Latihan Taufiq. Istirahat 45 detik antar gerakan.",
+      "Lap keringat, minum air, lalu centang di pelacak."
      ],
      "p": [
-      "Berhenti kalau pusing, mual, dada tidak enak, atau nyeri tajam. Berhenti juga dihitung berhasil.",
-      "Tambah 1 repetisi hanya setelah 3 sesi berturut-turut tanpa keluhan.",
-      "Tidak perlu berkeringat. Ini bukan ujian kekuatan."
+      "Berhenti kalau pusing, mual, dada tidak enak, atau nyeri tajam.",
+      "Naik level hanya setelah 3 sesi lengkap tanpa keluhan. Jangan menambah sendiri.",
+      "Selesai 10.15 supaya 10 menit terakhir cukup untuk bersiap berangkat."
      ]
     },
     {
-     "s": "10:10",
+     "s": "10:15",
      "e": "10:25",
      "c": "keluarga",
      "t": "Bersiap berangkat",
@@ -1438,25 +1437,24 @@
     },
     {
      "s": "10:00",
-     "e": "10:10",
+     "e": "10:15",
      "c": "energi",
-     "t": "Latihan ringan",
-     "n": "Fase 0: 1–2 repetisi saja. Catat di pelacak.",
+     "t": "Latihan di rumah",
+     "n": "Ikuti angka di pelacak. Selesai 10.15.",
      "d": [
-      "Pemanasan 2 menit: putar bahu, putar pinggul, jalan di tempat.",
-      "Squat ke kursi 1–2 kali, pelan, duduk lalu berdiri.",
-      "Push-up di dinding atau lutut 1–2 kali.",
-      "Menggantung di palang 3–5 detik, kaki boleh tetap menyentuh lantai.",
-      "Minum air, lalu catat di pelacak olahraga."
+      "Pemanasan 2 menit: putar bahu dan pinggul, jalan di tempat, squat tanpa beban 5 kali.",
+      "Kerjakan 2 putaran: squat, push-up, dayung dumbbell, menggantung di palang.",
+      "Angka tiap gerakan ada di pelacak Latihan Taufiq. Istirahat 45 detik antar gerakan.",
+      "Lap keringat, minum air, lalu centang di pelacak."
      ],
      "p": [
-      "Berhenti kalau pusing, mual, dada tidak enak, atau nyeri tajam. Berhenti juga dihitung berhasil.",
-      "Tambah 1 repetisi hanya setelah 3 sesi berturut-turut tanpa keluhan.",
-      "Tidak perlu berkeringat. Ini bukan ujian kekuatan."
+      "Berhenti kalau pusing, mual, dada tidak enak, atau nyeri tajam.",
+      "Naik level hanya setelah 3 sesi lengkap tanpa keluhan. Jangan menambah sendiri.",
+      "Selesai 10.15 supaya 10 menit terakhir cukup untuk bersiap berangkat."
      ]
     },
     {
-     "s": "10:10",
+     "s": "10:15",
      "e": "10:25",
      "c": "keluarga",
      "t": "Bersiap berangkat",
@@ -4805,25 +4803,24 @@
    },
    {
     "s": "10:00",
-    "e": "10:10",
+    "e": "10:15",
     "c": "energi",
-    "t": "Latihan ringan",
-    "n": "Fase 0: 1–2 repetisi saja. Catat di pelacak.",
+    "t": "Latihan di rumah",
+    "n": "Ikuti angka di pelacak. Selesai 10.15.",
     "d": [
-     "Pemanasan 2 menit: putar bahu, putar pinggul, jalan di tempat.",
-     "Squat ke kursi 1–2 kali, pelan, duduk lalu berdiri.",
-     "Push-up di dinding atau lutut 1–2 kali.",
-     "Menggantung di palang 3–5 detik, kaki boleh tetap menyentuh lantai.",
-     "Minum air, lalu catat di pelacak olahraga."
+     "Pemanasan 2 menit: putar bahu dan pinggul, jalan di tempat, squat tanpa beban 5 kali.",
+     "Kerjakan 2 putaran: squat, push-up, dayung dumbbell, menggantung di palang.",
+     "Angka tiap gerakan ada di pelacak Latihan Taufiq. Istirahat 45 detik antar gerakan.",
+     "Lap keringat, minum air, lalu centang di pelacak."
     ],
     "p": [
-     "Berhenti kalau pusing, mual, dada tidak enak, atau nyeri tajam. Berhenti juga dihitung berhasil.",
-     "Tambah 1 repetisi hanya setelah 3 sesi berturut-turut tanpa keluhan.",
-     "Tidak perlu berkeringat. Ini bukan ujian kekuatan."
+     "Berhenti kalau pusing, mual, dada tidak enak, atau nyeri tajam.",
+     "Naik level hanya setelah 3 sesi lengkap tanpa keluhan. Jangan menambah sendiri.",
+     "Selesai 10.15 supaya 10 menit terakhir cukup untuk bersiap berangkat."
     ]
    },
    {
-    "s": "10:10",
+    "s": "10:15",
     "e": "10:25",
     "c": "keluarga",
     "t": "Bersiap berangkat",
@@ -5793,25 +5790,24 @@
    },
    {
     "s": "10:00",
-    "e": "10:10",
+    "e": "10:15",
     "c": "energi",
-    "t": "Latihan ringan",
-    "n": "Fase 0: 1–2 repetisi saja. Catat di pelacak.",
+    "t": "Latihan di rumah",
+    "n": "Ikuti angka di pelacak. Selesai 10.15.",
     "d": [
-     "Pemanasan 2 menit: putar bahu, putar pinggul, jalan di tempat.",
-     "Squat ke kursi 1–2 kali, pelan, duduk lalu berdiri.",
-     "Push-up di dinding atau lutut 1–2 kali.",
-     "Menggantung di palang 3–5 detik, kaki boleh tetap menyentuh lantai.",
-     "Minum air, lalu catat di pelacak olahraga."
+     "Pemanasan 2 menit: putar bahu dan pinggul, jalan di tempat, squat tanpa beban 5 kali.",
+     "Kerjakan 2 putaran: squat, push-up, dayung dumbbell, menggantung di palang.",
+     "Angka tiap gerakan ada di pelacak Latihan Taufiq. Istirahat 45 detik antar gerakan.",
+     "Lap keringat, minum air, lalu centang di pelacak."
     ],
     "p": [
-     "Berhenti kalau pusing, mual, dada tidak enak, atau nyeri tajam. Berhenti juga dihitung berhasil.",
-     "Tambah 1 repetisi hanya setelah 3 sesi berturut-turut tanpa keluhan.",
-     "Tidak perlu berkeringat. Ini bukan ujian kekuatan."
+     "Berhenti kalau pusing, mual, dada tidak enak, atau nyeri tajam.",
+     "Naik level hanya setelah 3 sesi lengkap tanpa keluhan. Jangan menambah sendiri.",
+     "Selesai 10.15 supaya 10 menit terakhir cukup untuk bersiap berangkat."
     ]
    },
    {
-    "s": "10:10",
+    "s": "10:15",
     "e": "10:25",
     "c": "keluarga",
     "t": "Bersiap berangkat",
