@@ -383,24 +383,22 @@
     },
     {
      "s": "10:00",
-     "e": "10:15",
+     "e": "10:10",
      "c": "energi",
-     "t": "Latihan di rumah",
-     "n": "Ikuti angka di pelacak. Selesai 10.15.",
+     "t": "Peregangan ringan",
+     "n": "Latihan nanti sore setelah Ashar. Sekarang cukup peregangan.",
      "d": [
-      "Pemanasan 2 menit: putar bahu dan pinggul, jalan di tempat, squat tanpa beban 5 kali.",
-      "Kerjakan 2 putaran: squat, push-up, dayung dumbbell, menggantung di palang.",
-      "Angka tiap gerakan ada di pelacak Latihan Taufiq. Istirahat 45 detik antar gerakan.",
-      "Lap keringat, minum air, lalu centang di pelacak."
+      "Putar leher dan bahu pelan-pelan.",
+      "Tarik lengan ke atas, lalu condongkan badan ke kiri dan kanan.",
+      "Jalan di tempat atau keliling rumah 2 menit.",
+      "Minum air dan ke toilet."
      ],
      "p": [
-      "Berhenti kalau pusing, mual, dada tidak enak, atau nyeri tajam.",
-      "Naik level hanya setelah 3 sesi lengkap tanpa keluhan. Jangan menambah sendiri.",
-      "Selesai 10.15 supaya 10 menit terakhir cukup untuk bersiap berangkat."
+      "Ini bukan latihan, hanya melemaskan badan setelah duduk lama."
      ]
     },
     {
-     "s": "10:15",
+     "s": "10:10",
      "e": "10:25",
      "c": "keluarga",
      "t": "Bersiap berangkat",
@@ -526,6 +524,25 @@
     },
     {
      "s": "15:15",
+     "e": "15:45",
+     "c": "energi",
+     "t": "Latihan di rumah",
+     "n": "Buka pelacak Latihan Taufiq dan ikuti urutannya: pemanasan, latihan inti, pendinginan.",
+     "d": [
+      "Ganti baju olahraga, siapkan dumbbell, kursi, dan air minum.",
+      "Pemanasan 4 menit: jalan di tempat, putar lengan dan pinggul, cat-cow, lunge pelan, squat dan push-up dinding.",
+      "Latihan inti sesuai level di pelacak. Ikuti urutan blok dan timer istirahatnya.",
+      "Pendinginan 3 menit: peregangan dada, punggung, dan kaki.",
+      "Centang tiap set di pelacak, lalu mandi dan minum."
+     ],
+     "p": [
+      "Berhenti kalau pusing, mual, dada tidak enak, atau nyeri tajam.",
+      "Naik level hanya setelah 3 sesi lengkap tanpa keluhan. Jangan menambah sendiri.",
+      "Anak boleh ikut menghitung repetisi atau ikut pemanasan."
+     ]
+    },
+    {
+     "s": "15:45",
      "e": "17:15",
      "c": "keluarga",
      "t": "Waktu bersama anak",
@@ -733,7 +750,7 @@
       "Minum air dan ke toilet."
      ],
      "p": [
-      "Hari ini tidak ada latihan beban. Tubuh sedang beradaptasi."
+      "Ini bukan latihan, hanya melemaskan badan setelah duduk lama."
      ]
     },
     {
@@ -1071,7 +1088,7 @@
       "Minum air dan ke toilet."
      ],
      "p": [
-      "Hari ini tidak ada latihan beban. Tubuh sedang beradaptasi."
+      "Ini bukan latihan, hanya melemaskan badan setelah duduk lama."
      ]
     },
     {
@@ -1437,24 +1454,22 @@
     },
     {
      "s": "10:00",
-     "e": "10:15",
+     "e": "10:10",
      "c": "energi",
-     "t": "Latihan di rumah",
-     "n": "Ikuti angka di pelacak. Selesai 10.15.",
+     "t": "Peregangan ringan",
+     "n": "Latihan nanti sore setelah Ashar. Sekarang cukup peregangan.",
      "d": [
-      "Pemanasan 2 menit: putar bahu dan pinggul, jalan di tempat, squat tanpa beban 5 kali.",
-      "Kerjakan 2 putaran: squat, push-up, dayung dumbbell, menggantung di palang.",
-      "Angka tiap gerakan ada di pelacak Latihan Taufiq. Istirahat 45 detik antar gerakan.",
-      "Lap keringat, minum air, lalu centang di pelacak."
+      "Putar leher dan bahu pelan-pelan.",
+      "Tarik lengan ke atas, lalu condongkan badan ke kiri dan kanan.",
+      "Jalan di tempat atau keliling rumah 2 menit.",
+      "Minum air dan ke toilet."
      ],
      "p": [
-      "Berhenti kalau pusing, mual, dada tidak enak, atau nyeri tajam.",
-      "Naik level hanya setelah 3 sesi lengkap tanpa keluhan. Jangan menambah sendiri.",
-      "Selesai 10.15 supaya 10 menit terakhir cukup untuk bersiap berangkat."
+      "Ini bukan latihan, hanya melemaskan badan setelah duduk lama."
      ]
     },
     {
-     "s": "10:15",
+     "s": "10:10",
      "e": "10:25",
      "c": "keluarga",
      "t": "Bersiap berangkat",
@@ -1580,6 +1595,25 @@
     },
     {
      "s": "15:15",
+     "e": "15:45",
+     "c": "energi",
+     "t": "Latihan di rumah",
+     "n": "Buka pelacak Latihan Taufiq dan ikuti urutannya: pemanasan, latihan inti, pendinginan.",
+     "d": [
+      "Ganti baju olahraga, siapkan dumbbell, kursi, dan air minum.",
+      "Pemanasan 4 menit: jalan di tempat, putar lengan dan pinggul, cat-cow, lunge pelan, squat dan push-up dinding.",
+      "Latihan inti sesuai level di pelacak. Ikuti urutan blok dan timer istirahatnya.",
+      "Pendinginan 3 menit: peregangan dada, punggung, dan kaki.",
+      "Centang tiap set di pelacak, lalu mandi dan minum."
+     ],
+     "p": [
+      "Berhenti kalau pusing, mual, dada tidak enak, atau nyeri tajam.",
+      "Naik level hanya setelah 3 sesi lengkap tanpa keluhan. Jangan menambah sendiri.",
+      "Anak boleh ikut menghitung repetisi atau ikut pemanasan."
+     ]
+    },
+    {
+     "s": "15:45",
      "e": "17:15",
      "c": "keluarga",
      "t": "Waktu bersama anak",
@@ -4455,6 +4489,324 @@
     ]
    }
   ],
+  "2026-11-28": [
+   {
+    "s": "04:00",
+    "e": "05:00",
+    "c": "ibadah",
+    "t": "Bangun & sholat Subuh",
+    "n": "",
+    "d": [
+     "Wudhu dan sholat Subuh.",
+     "Minum 1–2 gelas air putih.",
+     "Kalau terbangun lebih awal (01.00–03.00) setelah tidur awal, manfaatkan untuk tahajjud."
+    ],
+    "p": [
+     "Taruh air di samping tempat tidur.",
+     "Jangan membuka HP sebelum sholat dan minum."
+    ]
+   },
+   {
+    "s": "05:00",
+    "e": "06:30",
+    "c": "deep",
+    "t": "Deep work blok 1",
+    "n": "Tidak ada Tilawati pagi. Kalau ada pendampingan ujian Tilawati (biasanya 05.30–06.00), lanjutkan deep work setelahnya.",
+    "d": [
+     "Kerjakan satu target utama yang ditulis tadi malam.",
+     "Satu tugas saja: desain, coding, atau revisi besar.",
+     "Berhenti tepat waktu dan tulis catatan 'lanjut dari sini'."
+    ],
+    "p": [
+     "HP senyap dan di luar jangkauan tangan. Tutup tab WhatsApp dan email.",
+     "Timer 50 menit kerja, 5–10 menit jeda (minum, peregangan).",
+     "Mulai dari bagian tersulit selagi otak segar."
+    ]
+   },
+   {
+    "s": "06:30",
+    "e": "07:30",
+    "c": "energi",
+    "t": "Sarapan & antar sekolah (jika giliran)",
+    "n": "",
+    "d": [
+     "Sarapan berprotein dan minum air.",
+     "Antar anak sekolah kalau giliran Anda."
+    ],
+    "p": [
+     "Kalau anak diantar kakek atau ibunya, lanjutkan deep work."
+    ]
+   },
+   {
+    "s": "07:30",
+    "e": "08:30",
+    "c": "deep",
+    "t": "Deep work blok 2",
+    "n": "Dipersingkat: hari ini jemput anak pertama pukul 09.00 dengan motor.",
+    "d": [
+     "Kerjakan satu target utama yang ditulis tadi malam.",
+     "Satu tugas saja: desain, coding, atau revisi besar.",
+     "Berhenti tepat waktu dan tulis catatan 'lanjut dari sini'."
+    ],
+    "p": [
+     "HP senyap dan di luar jangkauan tangan. Tutup tab WhatsApp dan email.",
+     "Timer 50 menit kerja, 5–10 menit jeda (minum, peregangan).",
+     "Mulai dari bagian tersulit selagi otak segar."
+    ]
+   },
+   {
+    "s": "08:30",
+    "e": "08:45",
+    "c": "keluarga",
+    "t": "Bersiap berangkat",
+    "n": "Toilet, ganti baju, siapkan helm, jaket, dan kunci motor.",
+    "d": [
+     "Toilet, cuci muka atau wudhu, ganti baju.",
+     "Siapkan helm, jaket, kunci motor.",
+     "Bawaan: HP, dompet, kunci, air minum."
+    ],
+    "p": [
+     "Isi daya HP sebelum berangkat."
+    ]
+   },
+   {
+    "s": "08:45",
+    "e": "09:20",
+    "c": "keluarga",
+    "t": "Jemput anak pertama (motor, pulang 09.00)",
+    "n": "Berangkat 08.45 dengan motor, jemput 09.00, sampai rumah 09.20.",
+    "d": [
+     "Berangkat 08.45 dengan motor.",
+     "Jemput anak pertama jam 09.00.",
+     "Sampai rumah sekitar 09.20."
+    ],
+    "p": [
+     "Pakai helm dan jaket, berkendara pelan."
+    ]
+   },
+   {
+    "s": "09:20",
+    "e": "10:00",
+    "c": "deep",
+    "t": "Deep work blok 3",
+    "n": "Lanjutkan target besar sampai 10.00.",
+    "d": [
+     "Kerjakan satu target utama yang ditulis tadi malam.",
+     "Satu tugas saja: desain, coding, atau revisi besar.",
+     "Berhenti tepat waktu dan tulis catatan 'lanjut dari sini'."
+    ],
+    "p": [
+     "HP senyap dan di luar jangkauan tangan. Tutup tab WhatsApp dan email.",
+     "Timer 50 menit kerja, 5–10 menit jeda (minum, peregangan).",
+     "Mulai dari bagian tersulit selagi otak segar."
+    ]
+   },
+   {
+    "s": "10:00",
+    "e": "10:15",
+    "c": "energi",
+    "t": "Jeda & minum",
+    "n": "Minum, toilet, peregangan sebentar.",
+    "d": [
+     "Minum, ke toilet, peregangan."
+    ],
+    "p": [
+     "Berdiri dan jalan sebentar."
+    ]
+   },
+   {
+    "s": "10:15",
+    "e": "10:30",
+    "c": "keluarga",
+    "t": "Bersiap berangkat",
+    "n": "Panaskan mobil. Berangkat dari rumah paling lambat 10.30.",
+    "d": [
+     "Toilet, cuci muka atau wudhu, ganti baju.",
+     "Panaskan mobil.",
+     "Bawaan: HP, dompet, kunci, air minum."
+    ],
+    "p": [
+     "Berangkat dari rumah paling lambat 10.30."
+    ]
+   },
+   {
+    "s": "10:30",
+    "e": "12:30",
+    "c": "keluarga",
+    "t": "Jemput dua anak (11.00) + jalan-jalan akhir pekan",
+    "n": "Berangkat dari rumah paling lambat 10.30 dengan mobil. Jajan bersama atau jalan ke suatu tempat. Sholat Zuhur di masjid terdekat.",
+    "d": [
+     "Jemput dua anak jam 11.00.",
+     "Jajan bersama atau jalan ke suatu tempat sampai 12.30."
+    ],
+    "p": [
+     "Tanpa laptop. Ini waktu akhir pekan keluarga."
+    ]
+   },
+   {
+    "s": "12:30",
+    "e": "13:00",
+    "c": "energi",
+    "t": "Makan siang",
+    "n": "",
+    "d": [
+     "Isi piring: separuh sayur dan buah, seperempat nasi, seperempat lauk.",
+     "Lauk: ayam, ikan, telur, tempe, tahu."
+    ],
+    "p": [
+     "Porsi sedang supaya tidak mengantuk.",
+     "Hindari minuman manis dan gorengan banyak.",
+     "Minum 1–2 gelas air putih."
+    ]
+   },
+   {
+    "s": "13:00",
+    "e": "13:20",
+    "c": "energi",
+    "t": "Qailulah 20 menit",
+    "n": "",
+    "d": [
+     "Rebahan 20 menit. Tidak harus tidur nyenyak.",
+     "Pasang alarm."
+    ],
+    "p": [
+     "Lampu redup dan HP jauh dari tangan.",
+     "Maksimal 30 menit supaya malam tetap bisa tidur."
+    ]
+   },
+   {
+    "s": "13:30",
+    "e": "15:00",
+    "c": "kerja",
+    "t": "Kerja sesi 2 atau review pekan",
+    "n": "Rapikan file, kirim progres ke klien. Kalau ada ujian Tilawati (sekitar 14.00–15.00), sesi ini dipendekkan.",
+    "d": [
+     "Rapikan file dan kirim progres ke klien.",
+     "Catat apa yang belum selesai untuk pekan depan.",
+     "Kalau ada ujian Tilawati sekitar 14.00–15.00, pendekkan sesi ini."
+    ],
+    "p": [
+     "Tulis 3 hasil terpenting pekan ini."
+    ]
+   },
+   {
+    "s": "15:00",
+    "e": "15:15",
+    "c": "ibadah",
+    "t": "Sholat Ashar",
+    "n": "",
+    "d": [
+     "Sholat Ashar tepat waktu.",
+     "Peregangan ringan."
+    ],
+    "p": [
+     "Jangan menunggu terlalu mepet akhir waktu."
+    ]
+   },
+   {
+    "s": "15:15",
+    "e": "16:00",
+    "c": "keluarga",
+    "t": "Santai bersama keluarga, bersiap",
+    "n": "",
+    "d": [
+     "Santai, lalu bersiap berangkat kumpul 15.45."
+    ],
+    "p": [
+     "Siapkan catatan kecil untuk tausiah."
+    ]
+   },
+   {
+    "s": "16:00",
+    "e": "17:30",
+    "c": "ibadah",
+    "t": "Kumpul & tausiah pekanan bersama teman",
+    "n": "",
+    "d": [
+     "Berangkat 15.45, kumpul 16.00, sampai Maghrib sekitar 17.30."
+    ],
+    "p": [
+     "Catat satu pelajaran dari tausiah."
+    ]
+   },
+   {
+    "s": "17:30",
+    "e": "19:15",
+    "c": "ibadah",
+    "t": "Maghrib, makan malam, Isya berjamaah",
+    "n": "",
+    "d": [
+     "Sholat Maghrib, makan malam bersama keluarga, sholat Isya berjamaah di masjid.",
+     "Kalau makan sebelum Maghrib, baca Al-Qur'an sebelum Isya."
+    ],
+    "p": [
+     "Usulkan makan malam sebelum Maghrib supaya ada waktu tilawah.",
+     "Jalan kaki ke masjid kalau terjangkau."
+    ]
+   },
+   {
+    "s": "19:30",
+    "e": "20:00",
+    "c": "ringan",
+    "t": "Tilawah pribadi",
+    "n": "Malam tanpa Tilawati: tilawah lebih panjang dan tenang.",
+    "d": [
+     "Tilawah lebih panjang dan tenang karena tidak ada Tilawati."
+    ],
+    "p": [
+     "Tempat yang tenang, HP senyap."
+    ]
+   },
+   {
+    "s": "20:00",
+    "e": "20:30",
+    "c": "belajar",
+    "t": "Belajar bahasa Inggris",
+    "n": "Sabtu: fokus bebas dan santai.",
+    "d": [
+     "Tema hari ini: Bebas.",
+     "0–5 mnt: Frasa, ulas kartu jatuh tempo.",
+     "5–20 mnt: tonton video berbahasa Inggris yang Anda suka, tanpa subtitle Indonesia.",
+     "20–30 mnt: pilih 3 frasa favorit pekan ini, ucapkan masing-masing dalam kalimat buatan sendiri."
+    ],
+    "p": [
+     "Tonton: bebas: video desain, teknologi, atau apa pun yang Anda suka, dalam bahasa Inggris.",
+     "Frasa (aplikasi kartu): claude.ai/artifact/M6uajbTbTa4ddbKxEpDLtf.",
+     "Malam yang lelah: cukup 15 menit Frasa, ucapkan jawabannya keras-keras. Jangan dilewatkan.",
+     "Rekaman HP cukup untuk latihan bicara; simpan semuanya di satu album.",
+     "Duolingo boleh 5 menit sebagai pemanasan, bukan menu utama."
+    ]
+   },
+   {
+    "s": "20:30",
+    "e": "21:30",
+    "c": "keluarga",
+    "t": "Malam santai bersama keluarga",
+    "n": "Tanpa laptop. Waktu untuk istri dan anak-anak.",
+    "d": [
+     "Santai bersama keluarga, tanpa laptop.",
+     "Bersiap tidur lebih awal."
+    ],
+    "p": [
+     "Matikan layar 30 menit sebelum tidur."
+    ]
+   },
+   {
+    "s": "21:30",
+    "e": "04:00",
+    "c": "energi",
+    "t": "Tidur lebih awal",
+    "n": "Membayar utang tidur sepekan. Besok ada Tilawati pagi.",
+    "d": [
+     "Tidur jam 21.30 untuk menebus kurang tidur sepekan.",
+     "Besok ada Tilawati pagi."
+    ],
+    "p": [
+     "HP jauh dari tempat tidur.",
+     "Matikan lampu terang."
+    ]
+   }
+  ],
   "2026-11-29": [
    {
     "s": "04:00",
@@ -4803,24 +5155,22 @@
    },
    {
     "s": "10:00",
-    "e": "10:15",
+    "e": "10:10",
     "c": "energi",
-    "t": "Latihan di rumah",
-    "n": "Ikuti angka di pelacak. Selesai 10.15.",
+    "t": "Peregangan ringan",
+    "n": "Latihan nanti sore setelah Ashar. Sekarang cukup peregangan.",
     "d": [
-     "Pemanasan 2 menit: putar bahu dan pinggul, jalan di tempat, squat tanpa beban 5 kali.",
-     "Kerjakan 2 putaran: squat, push-up, dayung dumbbell, menggantung di palang.",
-     "Angka tiap gerakan ada di pelacak Latihan Taufiq. Istirahat 45 detik antar gerakan.",
-     "Lap keringat, minum air, lalu centang di pelacak."
+     "Putar leher dan bahu pelan-pelan.",
+     "Tarik lengan ke atas, lalu condongkan badan ke kiri dan kanan.",
+     "Jalan di tempat atau keliling rumah 2 menit.",
+     "Minum air dan ke toilet."
     ],
     "p": [
-     "Berhenti kalau pusing, mual, dada tidak enak, atau nyeri tajam.",
-     "Naik level hanya setelah 3 sesi lengkap tanpa keluhan. Jangan menambah sendiri.",
-     "Selesai 10.15 supaya 10 menit terakhir cukup untuk bersiap berangkat."
+     "Ini bukan latihan, hanya melemaskan badan setelah duduk lama."
     ]
    },
    {
-    "s": "10:15",
+    "s": "10:10",
     "e": "10:25",
     "c": "keluarga",
     "t": "Bersiap berangkat",
@@ -4946,6 +5296,25 @@
    },
    {
     "s": "15:15",
+    "e": "15:45",
+    "c": "energi",
+    "t": "Latihan di rumah",
+    "n": "Buka pelacak Latihan Taufiq dan ikuti urutannya: pemanasan, latihan inti, pendinginan.",
+    "d": [
+     "Ganti baju olahraga, siapkan dumbbell, kursi, dan air minum.",
+     "Pemanasan 4 menit: jalan di tempat, putar lengan dan pinggul, cat-cow, lunge pelan, squat dan push-up dinding.",
+     "Latihan inti sesuai level di pelacak. Ikuti urutan blok dan timer istirahatnya.",
+     "Pendinginan 3 menit: peregangan dada, punggung, dan kaki.",
+     "Centang tiap set di pelacak, lalu mandi dan minum."
+    ],
+    "p": [
+     "Berhenti kalau pusing, mual, dada tidak enak, atau nyeri tajam.",
+     "Naik level hanya setelah 3 sesi lengkap tanpa keluhan. Jangan menambah sendiri.",
+     "Anak boleh ikut menghitung repetisi atau ikut pemanasan."
+    ]
+   },
+   {
+    "s": "15:45",
     "e": "17:15",
     "c": "keluarga",
     "t": "Waktu bersama anak",
@@ -5790,24 +6159,22 @@
    },
    {
     "s": "10:00",
-    "e": "10:15",
+    "e": "10:10",
     "c": "energi",
-    "t": "Latihan di rumah",
-    "n": "Ikuti angka di pelacak. Selesai 10.15.",
+    "t": "Peregangan ringan",
+    "n": "Latihan nanti sore setelah Ashar. Sekarang cukup peregangan.",
     "d": [
-     "Pemanasan 2 menit: putar bahu dan pinggul, jalan di tempat, squat tanpa beban 5 kali.",
-     "Kerjakan 2 putaran: squat, push-up, dayung dumbbell, menggantung di palang.",
-     "Angka tiap gerakan ada di pelacak Latihan Taufiq. Istirahat 45 detik antar gerakan.",
-     "Lap keringat, minum air, lalu centang di pelacak."
+     "Putar leher dan bahu pelan-pelan.",
+     "Tarik lengan ke atas, lalu condongkan badan ke kiri dan kanan.",
+     "Jalan di tempat atau keliling rumah 2 menit.",
+     "Minum air dan ke toilet."
     ],
     "p": [
-     "Berhenti kalau pusing, mual, dada tidak enak, atau nyeri tajam.",
-     "Naik level hanya setelah 3 sesi lengkap tanpa keluhan. Jangan menambah sendiri.",
-     "Selesai 10.15 supaya 10 menit terakhir cukup untuk bersiap berangkat."
+     "Ini bukan latihan, hanya melemaskan badan setelah duduk lama."
     ]
    },
    {
-    "s": "10:15",
+    "s": "10:10",
     "e": "10:25",
     "c": "keluarga",
     "t": "Bersiap berangkat",
@@ -5933,6 +6300,25 @@
    },
    {
     "s": "15:15",
+    "e": "15:45",
+    "c": "energi",
+    "t": "Latihan di rumah",
+    "n": "Buka pelacak Latihan Taufiq dan ikuti urutannya: pemanasan, latihan inti, pendinginan.",
+    "d": [
+     "Ganti baju olahraga, siapkan dumbbell, kursi, dan air minum.",
+     "Pemanasan 4 menit: jalan di tempat, putar lengan dan pinggul, cat-cow, lunge pelan, squat dan push-up dinding.",
+     "Latihan inti sesuai level di pelacak. Ikuti urutan blok dan timer istirahatnya.",
+     "Pendinginan 3 menit: peregangan dada, punggung, dan kaki.",
+     "Centang tiap set di pelacak, lalu mandi dan minum."
+    ],
+    "p": [
+     "Berhenti kalau pusing, mual, dada tidak enak, atau nyeri tajam.",
+     "Naik level hanya setelah 3 sesi lengkap tanpa keluhan. Jangan menambah sendiri.",
+     "Anak boleh ikut menghitung repetisi atau ikut pemanasan."
+    ]
+   },
+   {
+    "s": "15:45",
     "e": "17:15",
     "c": "keluarga",
     "t": "Waktu bersama anak",
